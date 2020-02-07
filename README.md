@@ -1,6 +1,5 @@
-# Finance_HW_1
+# Building S&P 500 and Dow Jows Index tracking portfolios
 
-Derrick Hung, Dandi Chen, Puja Subramaniam
 
-This repo contains the data for S&P 500 and DJIA from online database and two ETF/Mutual fund that tracks S&P and DJIA.
+This project contains the data for S&P 500 and DJIA from CRSP database and two portfolios that tracks S&P 500 and DJIA.
 
